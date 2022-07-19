@@ -1,0 +1,29 @@
+[33mcommit 1b4a5712052378c6a05ba56489110ef94d5738b9[m[33m ([m[1;36mHEAD -> [m[1;32msupermain[m[33m)[m
+Author: sbabichenko <sbabichenko@ucsb.edu>
+Date:   Tue Jul 19 11:26:00 2022 -0700
+
+    remove newline
+
+[33mcommit 9c91d5ea0f42eafd7dc14958de8351a08f4184b1[m
+Author: sbabichenko <sbabichenko@ucsb.edu>
+Date:   Tue Jul 19 11:13:17 2022 -0700
+
+    tidying things up
+
+[33mcommit 0bad4aec341e88499cfdaa1be1d684690f718157[m
+Author: sbabichenko <sbabichenko@ucsb.edu>
+Date:   Tue Jul 19 10:48:16 2022 -0700
+
+    added a comment
+
+[33mcommit a460a6df1a3ae6164e825d5e01f4bc1d0f676379[m
+Author: sbabichenko <sbabichenko@ucsb.edu>
+Date:   Tue Jul 19 10:45:26 2022 -0700
+
+    first file in my ui-example.sh
+
+[33mcommit 84221cb682e3bbda105b687d5c5bf3e875adaaa4[m
+Author: sbabichenko <sbabichenko@ucsb.edu>
+Date:   Tue Jul 19 10:41:38 2022 -0700
+
+    first file in my script.sh
